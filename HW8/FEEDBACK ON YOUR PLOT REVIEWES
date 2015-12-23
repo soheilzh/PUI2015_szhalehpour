@@ -1,0 +1,13 @@
+there are no reviews in your folder....
+
+here are some comments about your plot
+
+
+NOTES ON YOUR PLOT
+===================
+
+a meaningful comparison is impossible due to the large difference in the men values. if that was the point then a time series would be unnecessary. if the structure should have been compared then a time series should have been modified by multiplying by an appropriate constant and indicating that in the legend 
+
+small axes labels
+
+the axis labels should be words, not variable names: startdate -> "start date (startdate)"
